@@ -1,0 +1,4 @@
+#Mon Jun 01 16:41:25 AEST 2020
+base.0=F\:\\learning\\counter-app-with-redux-flutter\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
